@@ -71,6 +71,24 @@
       {
          "scams":null,
          "original":{
+            "url":"https://metadrop.com/",
+            "address":"",
+            "collection":"",
+            "title":"Metadrop"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://webaverse.com/",
+            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
+            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
+            "title":"Webaverse Genesis Drop"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"",
             "address":"0x60E4d786628Fea6478F785A6d7e704777c86a7c6",
             "collection":"https://opensea.io/collection/mutant-ape-yacht-club",
