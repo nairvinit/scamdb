@@ -32,6 +32,15 @@
       {
          "scams":null,
          "original":{
+            "url":"https://strxngers.me/",
+            "address":"https://etherscan.io/address/0xe5b4d6b5f37cae9dc4c7384cd97038cd0573d7d2",
+            "collection":"https://opensea.io/collection/strxngers",
+            "title":"Stxngers"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://webaverse.com/",
             "address":"0x543D43F390b7d681513045e8a85707438c463d80",
             "collection":"https://opensea.io/collection/webaverse-genesis-pass",
