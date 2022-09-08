@@ -41,6 +41,15 @@
       {
          "scams":null,
          "original":{
+            "url":"https://verify.blueshell.io/",
+            "address":"",
+            "collection":"",
+            "title":"Verify BlueShell"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
             "url":"https://webaverse.com/",
             "address":"0x543D43F390b7d681513045e8a85707438c463d80",
             "collection":"https://opensea.io/collection/webaverse-genesis-pass",
